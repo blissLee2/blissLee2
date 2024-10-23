@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tshegofatso Leah Tshethlo</h1>
-<h3 align="center">A passionate about becoming a developer</h3>
+<h3 align="center">I am passionate about becoming a Developer</h3>
 <img lign = "right" alt = "coding" width = "400" src ="https://th.bing.com/th/id/OIP.Ft3QJdbyqMKp0vRM6FWEyQHaE8?w=291&h=194&c=7&r=0&o=5&pid=1.7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blisslee&label=Profile%20views&color=0e75b6&style=flat" alt="blisslee" /> </p>
